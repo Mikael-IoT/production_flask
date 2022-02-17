@@ -1,5 +1,5 @@
 # Use Python 3.9
-FROM python:3.9
+FROM python:3.9.10
 
 # Set the working directory for the container to a folder called app
 WORKDIR /app
